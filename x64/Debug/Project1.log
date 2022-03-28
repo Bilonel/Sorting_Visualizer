@@ -1,0 +1,168 @@
+﻿  Algorithm_Functions.cpp
+C:\Users\husey\Desktop\Sorting_Visualizer-main\Project1\Algorithms_Functions.h(25,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\husey\Desktop\Sorting_Visualizer-main\Project1\Algorithms_Functions.h(25,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\husey\Desktop\Sorting_Visualizer-main\Project1\Algorithms_Functions.h(31,99): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\husey\Desktop\Sorting_Visualizer-main\Project1\Algorithms_Functions.h(31,90): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\husey\Desktop\Sorting_Visualizer-main\Project1\Algorithm_Functions.cpp(32,12): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\husey\Desktop\Sorting_Visualizer-main\Project1\Algorithm_Functions.cpp(53,99): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\husey\Desktop\Sorting_Visualizer-main\Project1\Algorithm_Functions.cpp(53,40): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\husey\Desktop\Sorting_Visualizer-main\Project1\Algorithm_Functions.cpp(103,100): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\husey\Desktop\Sorting_Visualizer-main\Project1\Algorithm_Functions.cpp(103,41): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\husey\Desktop\Sorting_Visualizer-main\Project1\Algorithm_Functions.cpp(173,99): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\husey\Desktop\Sorting_Visualizer-main\Project1\Algorithm_Functions.cpp(173,40): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\husey\Desktop\Sorting_Visualizer-main\Project1\Algorithm_Functions.cpp(208,98): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\husey\Desktop\Sorting_Visualizer-main\Project1\Algorithm_Functions.cpp(208,39): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  main.cpp
+C:\Users\husey\Desktop\Sorting_Visualizer-main\Project1\Algorithms_Functions.h(25,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\husey\Desktop\Sorting_Visualizer-main\Project1\Algorithms_Functions.h(25,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\husey\Desktop\Sorting_Visualizer-main\Project1\Algorithms_Functions.h(31,99): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\husey\Desktop\Sorting_Visualizer-main\Project1\Algorithms_Functions.h(31,90): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\husey\Desktop\Sorting_Visualizer-main\Project1\main.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\husey\Desktop\Sorting_Visualizer-main\Project1\main.cpp(17,48): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+C:\Users\husey\Desktop\Sorting_Visualizer-main\Project1\main.cpp(17,40): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+C:\Users\husey\Desktop\Sorting_Visualizer-main\Project1\main.cpp(26,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\husey\Desktop\Sorting_Visualizer-main\Project1\main.cpp(29,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\husey\Desktop\Sorting_Visualizer-main\Project1\main.cpp(91,42): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\husey\Desktop\Sorting_Visualizer-main\Project1\main.cpp(105,41): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Generating Code...
+  Project1.vcxproj -> C:\Users\husey\Desktop\Sorting_Visualizer-main\Project1\x64\Debug\Project1.exe
